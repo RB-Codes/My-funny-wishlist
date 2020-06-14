@@ -1,0 +1,58 @@
+body {
+    display: inline-block;
+    background-image: url(/images/bg.jpg);
+margin: 0;
+padding: 0;
+font-family:  Helvetica, sans-serif;
+height: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+header{
+    background:#e12e5b;
+    margin: 50px;
+    padding: 50px;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    color: seashell;
+    position: center ;
+
+}
+
+table {
+    display: inline-block;
+    margin: 100px;
+    padding: 100px;
+    background: grey;
+    color: seashell;
+    opacity: 0.75;
+    font-size: 20px;
+
+    
+}
+form{
+    opacity: 0.75;
+    background: grey;
+    font-size: 15px;
+    display: inline-block;
+    margin: 200px;
+    padding: 100px;
+    font-size: 20;
+    color: seashell;
+    text-align: center;
+}
+
+
+
+input{
+    padding: 20px;
+    margin: 20px;
+}
+
+#button {
+    color: seashell;
+    background-color: #e12e5b;
+}
